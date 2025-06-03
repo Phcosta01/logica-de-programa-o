@@ -1,0 +1,1 @@
+Dir= ver os arquivos da pastaCls=limpar a telacd..=voltar ao diretor(pasta anterior)cd=entrar em uma pastamkdir(nome)criador de pastaecho=(nome do arquivo)criar um arquivo dentro da pastastart= (nome do arquivo) para entrar no arquivodel=(nome do arquivo) para deletar o arquivormdir=(nome da pasta) ecluir a pastaREM: renomearMove= mover
